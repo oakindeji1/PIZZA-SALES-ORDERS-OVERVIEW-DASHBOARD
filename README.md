@@ -82,40 +82,40 @@ Table  format
 
  ###     Create a funnel chart that presents the total number of pizza sold for each pizza category
 
- ### 11)	Top 5 Best Sellers by Revenue
+ ### 6)	Top 5 Best Sellers by Revenue
 
 <img width="1427" height="786" alt="image" src="https://github.com/user-attachments/assets/4d3990d0-d116-4e3c-b38c-638d57ebcbc2" />
 
 
  ###     Create a bar chart highlighting the top 5 Best Sellers by Revenue, Total Quantity, Total order
  
- ### 13)	Bottom 5 Worst Seller Revenue
+ ### 7)	Bottom 5 Worst Seller Revenue
  
 <img width="1273" height="748" alt="image" src="https://github.com/user-attachments/assets/420efe35-bb75-4643-b3af-567b7f290f4b" />
 
 
  ###   Create a bar chart highlighting the top 5 worst Sellers by Revenue, Total Quantity, Total order
  
- ### 11)	Top 5 Best Sellers by Total Quantity
+ ### 8)	Top 5 Best Sellers by Total Quantity
 
 <img width="1342" height="692" alt="image" src="https://github.com/user-attachments/assets/f6fc8c71-7e86-4521-bc54-cc79a5317aaa" />
 
  ###     Create a bar chart highlighting the top 5 Best Sellers by Revenue, Total Quantity, Total order
  
- ### 13)	Bottom 5 Worst Seller by Total Quantity
+ ### 9)	Bottom 5 Worst Seller by Total Quantity
 
 <img width="1431" height="764" alt="image" src="https://github.com/user-attachments/assets/292bc1e1-5661-4cd7-9e4e-18e7c59d6348" />
 
 	 
 ###    Create a bar chart highlighting the top 5 worst Sellers by Revenue, Total Quantity, Total order
 	
-###  11)	Top 5 Best Sellers by Total order
+###  10)	Top 5 Best Sellers by Total order
 
 <img width="1373" height="744" alt="image" src="https://github.com/user-attachments/assets/df155d87-b685-490f-a720-8933b984ddce" />
 
  ###      Create a bar chart highlighting the top 5 Best Sellers by Revenue, Total Quantity, Total order
 	  
-###  13)	Bottom 5 Worst Seller by Total order
+###  11)	Bottom 5 Worst Seller by Total order
       
 <img width="1344" height="785" alt="image" src="https://github.com/user-attachments/assets/8ff6010c-3217-437b-b654-31c8fe8874eb" />
 
