@@ -5,27 +5,77 @@
 ## KPI’s Requirement
 ## We need to analyse key indicators for our pizza sales data to gain insights into our business performance.
 ### Specifically, we want to calculate the following metrics:
-    1)	Total Revenue: The sum of the total price of all pizza orders.
-    2)	Average Order values: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
-    3)	Total Pizza sold: The sum of the quantities of all pizzas sold
-    4)	Total Orders: The total number of orders placed.
-    5)	Average Pizzas per Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
+
+   ###  1)	Total Revenue: The sum of the total price of all pizza orders.
+   
+	<img width="287" height="131" alt="image" src="https://github.com/user-attachments/assets/6ed7c8fc-42c6-45c2-a708-1bf25169ff0a" />
+
+   ### 2)	Average Order values: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
+	<img width="305" height="133" alt="image" src="https://github.com/user-attachments/assets/40ae47e4-dfb2-4529-becf-5413e22c274c" />
+
+   ### 3)	Total Pizza sold: The sum of the quantities of all pizzas sold
+	<img width="311" height="135" alt="image" src="https://github.com/user-attachments/assets/13e23d14-4ad0-4325-85f0-fffe065be6fe" />
+
+  ###  4)	Total Orders: The total number of orders placed.
+	<img width="315" height="128" alt="image" src="https://github.com/user-attachments/assets/00de21e3-0f26-46f1-89ce-98b88bfd1b01" />
+
+  ###  5)	Average Pizzas per Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
+	<img width="325" height="141" alt="image" src="https://github.com/user-attachments/assets/df0337b7-d31b-429b-a1e9-1e8164fa9932" />
+
 ### Chart Requirement
 #### We would like to visualize various aspects our pizza sales data to gain insights and understanding key trends. We have identified the following requirements for creating charts:
-  1)	Daily Trend for Total Orders:
-      Create a bar chart that displays the daily trend of total orders over a specific time period.
-  2)	Monthly Trends for Total Orders:
-      Create a line chart that illustrates the hourly trend of total orders throughout the day,
-  3)	Percentage of sales by Pizza Category
-      Create a pie chart that shows the distribution of sales across different pizza categories
-  4)	Percent of sales by Pizza Size:
-      Generate a pie chart that represents the percentage of sales attributed to different pizza sizes.
-  5)	Total Pizza Sold by Pizza Category
-      Create a funnel chart that presents the total number of pizza sold for each pizza category
-  6)	Top 5 Best Sellers by Revenue, Total Quantity, Total order
-      Create a bar chart highlighting the top 5 Best Sellers by Revenue, Total Quantity, Total order
-  7)	Bottom 5 Worst Seller Revenue, Total Quantity, Total order
-    Create a bar chart highlighting the top 5 worst Sellers by Revenue, Total Quantity, Total order
+
+ ###  1)	Daily Trend for Total Orders
+ 
+     <img width="367" height="325" alt="image" src="https://github.com/user-attachments/assets/34a592c3-6e80-4235-b422-3d4e46c4f970" />
+
+ ###     Create a bar chart that displays the daily trend of total orders over a specific time period.
+ 
+ ### 2)	Monthly Trends for Total Orders:
+ 
+     <img width="400" height="475" alt="image" src="https://github.com/user-attachments/assets/f193b809-478e-4299-8e74-f08c4dc3a011" />
+
+  ###    Create a line chart that illustrates the hourly trend of total orders throughout the day,
+  
+  ### 3)	Percentage of sales by Pizza Category
+  
+    <img width="601" height="275" alt="image" src="https://github.com/user-attachments/assets/35a88b30-168c-4881-8bc9-f0d6cd6b060a" />
+
+  ###    Create a pie chart that shows the distribution of sales across different pizza categories
+ ### 4)	Percent of sales by Pizza Size:
+  	<img width="549" height="318" alt="image" src="https://github.com/user-attachments/assets/33d02fba-7cf1-48f3-b914-4071b5902392" />
+
+ ###     Generate a pie chart that represents the percentage of sales attributed to different pizza sizes.
+###  5)	Total Pizza Sold by Pizza Category
+      <img width="565" height="271" alt="image" src="https://github.com/user-attachments/assets/a5d293f1-7b38-467d-b79b-eed6d22f54fd" />
+
+ ###     Create a funnel chart that presents the total number of pizza sold for each pizza category
+
+ ### 11)	Top 5 Best Sellers by Revenue
+      <img width="516" height="242" alt="image" src="https://github.com/user-attachments/assets/5eb16410-1637-4534-91fc-71ad5b124b9e" />
+
+ ###     Create a bar chart highlighting the top 5 Best Sellers by Revenue, Total Quantity, Total order
+ ### 13)	Bottom 5 Worst Seller Revenue
+      <img width="560" height="211" alt="image" src="https://github.com/user-attachments/assets/fbd4410b-1342-4a00-b6af-2c882f1c5d3e" />
+
+ ###   Create a bar chart highlighting the top 5 worst Sellers by Revenue, Total Quantity, Total order
+ ### 11)	Top 5 Best Sellers by Total Quantity
+      <img width="716" height="283" alt="image" src="https://github.com/user-attachments/assets/82a1b1f8-d0ec-4a8e-869b-4809d2406f13" />
+
+ ###     Create a bar chart highlighting the top 5 Best Sellers by Revenue, Total Quantity, Total order
+ ### 13)	Bottom 5 Worst Seller by Total Quantity
+     <img width="667" height="305" alt="image" src="https://github.com/user-attachments/assets/85e8a013-bcb8-4a38-ad72-0b26fea4e264" />
+
+###    Create a bar chart highlighting the top 5 worst Sellers by Revenue, Total Quantity, Total order
+	
+###  11)	Top 5 Best Sellers by Total order
+       <img width="516" height="264" alt="image" src="https://github.com/user-attachments/assets/07727706-f191-4ec5-b721-a693b9e8fc8c" />
+ ###      Create a bar chart highlighting the top 5 Best Sellers by Revenue, Total Quantity, Total order
+	  
+###  13)	Bottom 5 Worst Seller by Total order
+       <img width="508" height="215" alt="image" src="https://github.com/user-attachments/assets/01842d00-f8d1-4b7c-8e26-f131beef8c65" />
+
+### Create a bar chart highlighting the top 5 worst Sellers by Total order
 
 ### Software Used
     •	MS Office/Excel
