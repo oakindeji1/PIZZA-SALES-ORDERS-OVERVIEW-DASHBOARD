@@ -25,12 +25,12 @@ Table  format
 
    ###  1)	Total Revenue: The sum of the total price of all pizza orders.
    
-	<img width="1807" height="671" alt="image" src="https://github.com/user-attachments/assets/6c84e99f-9f4c-4d08-bc22-17e85f5811cf" />
+<img width="1807" height="671" alt="image" src="https://github.com/user-attachments/assets/6c84e99f-9f4c-4d08-bc22-17e85f5811cf" />
 
 
    ### 2)	Average Order values: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
    
-	<img width="1529" height="606" alt="image" src="https://github.com/user-attachments/assets/bad22088-f3b3-4772-a282-36e275916728" />
+<img width="1529" height="606" alt="image" src="https://github.com/user-attachments/assets/bad22088-f3b3-4772-a282-36e275916728" />
 
 
    ### 3)	Total Pizza sold: The sum of the quantities of all pizzas sold
@@ -53,14 +53,14 @@ Table  format
 
  ###  1)	Daily Trend for Total Orders
  
-     <img width="1642" height="675" alt="image" src="https://github.com/user-attachments/assets/5f1fa557-1077-49bf-8d34-4a9ed78740bf" />
+<img width="1642" height="675" alt="image" src="https://github.com/user-attachments/assets/5f1fa557-1077-49bf-8d34-4a9ed78740bf" />
 
 
  ###     Create a bar chart that displays the daily trend of total orders over a specific time period.
  
  ### 2)	Monthly Trends for Total Orders:
  
-     <img width="1698" height="789" alt="image" src="https://github.com/user-attachments/assets/88955332-905d-4a80-8e32-29d5634aa0a3" />
+<img width="1698" height="789" alt="image" src="https://github.com/user-attachments/assets/88955332-905d-4a80-8e32-29d5634aa0a3" />
 
 
   ###    Create a line chart that illustrates the hourly trend of total orders throughout the day,
@@ -73,32 +73,32 @@ Table  format
   ###    Create a pie chart that shows the distribution of sales across different pizza categories
  ### 4)	Percent of sales by Pizza Size:
  
-  	<img width="1483" height="662" alt="image" src="https://github.com/user-attachments/assets/10c2e805-b1f0-4436-bcc6-56eb13cd29b0" />
+  <img width="1483" height="662" alt="image" src="https://github.com/user-attachments/assets/10c2e805-b1f0-4436-bcc6-56eb13cd29b0" />
 
  ###     Generate a pie chart that represents the percentage of sales attributed to different pizza sizes.
 ###  5)	Total Pizza Sold by Pizza Category
 
-      <img width="1609" height="670" alt="image" src="https://github.com/user-attachments/assets/fcb84820-96a0-4bd0-bd5b-5dce3018597a" />
+<img width="1609" height="670" alt="image" src="https://github.com/user-attachments/assets/fcb84820-96a0-4bd0-bd5b-5dce3018597a" />
 
  ###     Create a funnel chart that presents the total number of pizza sold for each pizza category
 
  ### 11)	Top 5 Best Sellers by Revenue
 
-	<img width="1427" height="786" alt="image" src="https://github.com/user-attachments/assets/4d3990d0-d116-4e3c-b38c-638d57ebcbc2" />
+<img width="1427" height="786" alt="image" src="https://github.com/user-attachments/assets/4d3990d0-d116-4e3c-b38c-638d57ebcbc2" />
 
 
  ###     Create a bar chart highlighting the top 5 Best Sellers by Revenue, Total Quantity, Total order
  
  ### 13)	Bottom 5 Worst Seller Revenue
  
-      <img width="1273" height="748" alt="image" src="https://github.com/user-attachments/assets/420efe35-bb75-4643-b3af-567b7f290f4b" />
+<img width="1273" height="748" alt="image" src="https://github.com/user-attachments/assets/420efe35-bb75-4643-b3af-567b7f290f4b" />
 
 
  ###   Create a bar chart highlighting the top 5 worst Sellers by Revenue, Total Quantity, Total order
  
  ### 11)	Top 5 Best Sellers by Total Quantity
 
-	  <img width="1342" height="692" alt="image" src="https://github.com/user-attachments/assets/f6fc8c71-7e86-4521-bc54-cc79a5317aaa" />
+<img width="1342" height="692" alt="image" src="https://github.com/user-attachments/assets/f6fc8c71-7e86-4521-bc54-cc79a5317aaa" />
 
  ###     Create a bar chart highlighting the top 5 Best Sellers by Revenue, Total Quantity, Total order
  
@@ -111,13 +111,13 @@ Table  format
 	
 ###  11)	Top 5 Best Sellers by Total order
 
-      <img width="1373" height="744" alt="image" src="https://github.com/user-attachments/assets/df155d87-b685-490f-a720-8933b984ddce" />
+<img width="1373" height="744" alt="image" src="https://github.com/user-attachments/assets/df155d87-b685-490f-a720-8933b984ddce" />
 
  ###      Create a bar chart highlighting the top 5 Best Sellers by Revenue, Total Quantity, Total order
 	  
 ###  13)	Bottom 5 Worst Seller by Total order
       
-	   <img width="1344" height="785" alt="image" src="https://github.com/user-attachments/assets/8ff6010c-3217-437b-b654-31c8fe8874eb" />
+<img width="1344" height="785" alt="image" src="https://github.com/user-attachments/assets/8ff6010c-3217-437b-b654-31c8fe8874eb" />
 
 
 ### Create a bar chart highlighting the top 5 worst Sellers by Total order
