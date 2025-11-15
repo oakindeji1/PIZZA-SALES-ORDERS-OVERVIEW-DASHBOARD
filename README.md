@@ -2,6 +2,19 @@
 
 # Problem Statement
 
+## Step 1: Import the file into SQL
+### 🔍 Step 2: Understand the Dataset
+### Firstly, I’ll took a quick look at the structure of your SQL file — specifically:
+
+    What sheets are present.
+    What columns exist (e.g., Pizza Id, Order id, Quantity, Order Date, Order Time, Unit Price, Total Price, pizza Category,etc.) 
+	with 48,620 rows.
+    This will allow me to map the data fields to your KPIs.
+     
+### Software Used
+    • MS SQL Server
+	• MS Office/Excel
+    	
 ## KPI’s Requirement
 ## We need to analyse key indicators for our pizza sales data to gain insights into our business performance.
 ### Specifically, we want to calculate the following metrics:
@@ -77,17 +90,15 @@
 
 ### Create a bar chart highlighting the top 5 worst Sellers by Total order
 
-### Software Used
-    •	MS Office/Excel
-    •	MS SQL Server
 
 
-### 🔍 Step 1: Understand the Dataset
-### Firstly, I’ll took a quick look at the structure of your Excel file — specifically:
-     What sheets are present.
-     What columns exist (e.g., Year, Month, Accident_Severity, Vehicle_Type, Casualties, Road_Type, etc.).
-     This will allow me to map the data fields to your KPIs.
-     Cleeaned the data by extrating days, Months and Year from the dates Using the below formulae:
+
+
+
+
+
+
+Cleeaned the data by extrating days, Months and Year from the dates Using the below formulae:
           =TEXT(B2,"DD")
           =TEXT(B2,"MMM")
           =TEXT(B2,"YYYY")
