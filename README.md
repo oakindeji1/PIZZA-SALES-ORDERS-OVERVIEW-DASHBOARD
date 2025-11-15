@@ -124,53 +124,29 @@ Table  format
 
 
 
+Now I imported the sql file in Excel file:
+<img width="1703" height="897" alt="image" src="https://github.com/user-attachments/assets/b18fd3dc-8325-4d5c-bb17-35e8d5e68bce" />
 
+and the imported file as below:
 
+<img width="1886" height="939" alt="image" src="https://github.com/user-attachments/assets/dbfc8baa-e0cb-46d2-9c14-7bbdd9c82b4b" />
 
-
-
-
-Cleeaned the data by extrating days, Months and Year from the dates Using the below formulae:
-          =TEXT(B2,"DD")
+Cleeaned the data by 
+Getting the Total Order using 
+       =1/COUNTIF(B:B,[@[order_id]])
+extrating days, Months and Year from the dates Using the below formulae:
           =TEXT(B2,"MMM")
+		  =TEXT(B2,"DDD")
           =TEXT(B2,"YYYY")
+And Hour as 
+=TEXT([@[order_time]],"HH")
+
+The Unit Price and Total Price Column was formated as currency 
+
+Then Replace L, S,M, XL, XXL to Large, Small,Medium, XLarge and, XXLarge
 
 ### Step 2: Dashboard Metrics Design
-### Primary KPIs
-     Total Casualties
-     Formula: =SUM(Casualties)
-### Card visualization
-     Casualties by Accident Severity
-     Severity categories: Fatal, Serious, Slight
-     Show total and % of total using:
-     =F9/($F$9 +$F$10) i.e (Casualties by Severity) / (Total Casualties)
 
-### Max Casualties by Vehicle Type
-     Pivot Table: Vehicle Type vs SUM of Casualties
-     Highlight maximum value.
-     Visualization: Pie chart 
-
-### Secondary KPIs
-     Total Casualties by Vehicle Type
-     Visualization: Pie chart
-
-### Step 3: Trends and Comparisons
-     Monthly Trend Comparison (2021 vs 2022)
-     Pivot: Month as Axis, SUM(Casualties) as Values, Year as Legend.
-     Visualization: Line chart with two lines (2021 and 2022)
-
-### Step 4: Contextual Insights
-     Max Casualties by Road Type
-     Pivot: Road Type by count(Casualties) using Calculated items
-     Visualization: Bar Chart.
-
-	 Distribution by Road Surface
-     Pivot: Road Surface × count(Casualties)
-     Visualization: Hierarachy Chart.
-     Casualties by Area and Time (Day/Night)
-
-	Pivot: Rows → Area/Location; Columns → Day/Night; Values → SUM(Casualties)
-	Visualization: Pie Chart
 
 ### Dashboard
 																
