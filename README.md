@@ -149,32 +149,27 @@ Then Replace L, S,M, XL, XXL to Large, Small,Medium, XLarge and, XXLarge
 
 
 ### Dashboard
-																
-<img width="1868" height="785" alt="image" src="https://github.com/user-attachments/assets/94799f7b-c52b-48bd-95b5-bd3eb4229c32" />
+<img width="1766" height="944" alt="image" src="https://github.com/user-attachments/assets/812585d6-cd89-48ff-9d76-e3cc6e574b4c" />
+							
+Insight
 
-### Insight
+🚦 Overview Dashboard Summary
 
-🚦 Casualty Overview Dashboard Summary
+### Large-size pizzas lead sales, contributing 45.89% of total revenue.
 
-	1)	Total Casualties: 197,644
-	2)	Fatal: 2,486 (1.3%)
-	3)	Serious: 25,685 (13%)
-	4)	Slight: 169,473 (86%)
+###The Classic pizza category dominates, recording 14,888 total sales.
 
-🚗 Casualties by Vehicle Type
-#### Cars: 157,248 (80% of total vehicle casualties)
-#### Cars remain the dominant contributor to overall road casualties, highlighting the need for continued focus on car safety and driver awareness initiatives.
+### Fridays consistently generate the highest sales, with July standing out as the top-performing month of the year.
 
-📅 Casualty Trend by Month
-#### Higher in Jan & Dec 2021 than Jan & Dec 2022
-#### Seasonal peaks suggest increased risk during winter months, likely linked to weather and travel patterns.
+🚗 Daily Trend for Total Orders
+### Friday remains the strongest sales day, reaching £136k in total orders.
 
-🛣️ Casualties by Road Type & Condition
-#### Highest by Road Type: Single Carriageway – 148,543
-#### Highest by Surface Condition: Dry Roads – 135,403
-#### Despite favorable surface conditions, dry roads saw the most casualties - possibly due to higher traffic volume and speed.
+📅 Sales Trend by Month
+### Sales peak notably in May and July, reflecting strong mid-year demand.
 
-📍 Casualties by Location & Time
-#### Urban areas: Higher than rural
-#### Daylight: Higher than night-time
-#### Urban density and daytime activity continue to drive higher incident rates.
+🛣️ Sales by Category
+### The Classic category continues to outperform others with 14,888 sales, making it the top-selling segment.
+
+📍 Top 5 Most Ordered Pizzas
+### The Tail Chicken Pizza is the highest-ordered item, generating over £43k in sales.
+
